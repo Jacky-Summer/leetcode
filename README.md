@@ -21,3 +21,7 @@ leetcode 刷题记录
 ## 集合
 
 - [349-两个数组的交集-easy](https://github.com/Jacky-Summer/leetcode/blob/master/set/349-%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86-easy.md)
+
+## 字典
+
+- [1-两数之和-easy](https://github.com/Jacky-Summer/leetcode/blob/master/map/1-%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C-easy.md)
