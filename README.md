@@ -27,3 +27,7 @@ leetcode 刷题记录
 - [1-两数之和-easy](https://github.com/Jacky-Summer/leetcode/blob/master/map/1-%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C-easy.md)
 - [3-无重复字符的最长子串-middle](https://github.com/Jacky-Summer/leetcode/blob/master/map/3-%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2-middle.md)
 - [76-最小覆盖子串-difficult](https://github.com/Jacky-Summer/leetcode/blob/master/map/76-%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2-difficult.md)
+
+## 树
+
+- [104-二叉树的最大深度-easy](https://github.com/Jacky-Summer/leetcode/blob/master/tree/104-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6-easy.md)
