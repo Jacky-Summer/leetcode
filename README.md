@@ -30,6 +30,7 @@ leetcode 刷题记录
 
 ## 树
 
+- [94-二叉树的中序遍历-middle](https://github.com/Jacky-Summer/leetcode/blob/master/tree/94-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86-middle.md)
 - [102-二叉树的层序遍历-middle](https://github.com/Jacky-Summer/leetcode/blob/master/tree/102-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86-middle.md)
 - [104-二叉树的最大深度-easy](https://github.com/Jacky-Summer/leetcode/blob/master/tree/104-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6-easy.md)
 - [111-二叉树的最小深度-easy](https://github.com/Jacky-Summer/leetcode/blob/master/tree/111-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%B0%8F%E6%B7%B1%E5%BA%A6-easy.md)
