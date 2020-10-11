@@ -35,3 +35,7 @@ leetcode 刷题记录
 - [104-二叉树的最大深度-easy](https://github.com/Jacky-Summer/leetcode/blob/master/tree/104-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6-easy.md)
 - [111-二叉树的最小深度-easy](https://github.com/Jacky-Summer/leetcode/blob/master/tree/111-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%B0%8F%E6%B7%B1%E5%BA%A6-easy.md)
 - [112-路径总和-easy](https://github.com/Jacky-Summer/leetcode/blob/master/tree/112-%E8%B7%AF%E5%BE%84%E6%80%BB%E5%92%8C-easy.md)
+
+## 图
+
+- [65-有效数字-difficult](https://github.com/Jacky-Summer/leetcode/blob/master/graph/65-%E6%9C%89%E6%95%88%E6%95%B0%E5%AD%97-difficult.md)
